@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Jackson Couse (1984) is an artist from Ottawa, Canada.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+He has attended The International Center of Photography, Algonquin College, and Carleton University.
 
-There are currently two themes built on Poole:
+His work has been featured in Blackflash, Ciel Variable, and Canadian Art magazines. He has exhibited at CENTER (Santa Fe, NM), the International Center of Photography (New York), Galerie SAW Gallery (Ottawa), and DAIMON (Gatineau). 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Commissions include SAW Video, The New York Times, Montreal Gazette, FASHION, Food and Wine, Tasting Table, PBS NewsHour, CBC Radio, and Radio-Canada.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Jackson Couse is the editor of [Tuts+ Photography](http://photography.tutsplus.com/). He has taught photography at the International Center of Photography's [Documentary Photography and Photojournalism](http://icp.edu/school/one-year-certificate/documentary-photography-and-photojournalism) program and the [School for the Photographic Arts: Ottawa](http://spao.ca/).
