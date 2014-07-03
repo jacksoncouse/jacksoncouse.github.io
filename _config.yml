@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Jackson Couse
-tagline:          'Artist, Editor, Educator'
+title:            jacksoncouse.com
+tagline:          'by Jackson Couse'
 description:      'I am an artist, publisher and documentarian. I make photographs, prints, books, videos, interventions, and collaborations. This is my website. '
 url:              http://jacksoncouse.github.io
 baseurl:          '/'
