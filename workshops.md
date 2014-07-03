@@ -11,6 +11,8 @@ Every artist needs to photograph their artwork. While digital cameras have made 
 
 $165.00 [Register Online](http://crystalbeshara.com/studio-cafe-classes/photographing-your-art)
 
+----
+
 ## Courses
 
 ### The Photobook<a name="photobook"></a>
