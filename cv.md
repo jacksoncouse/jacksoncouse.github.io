@@ -3,33 +3,9 @@ layout: page
 title: CV
 ---
 
-## Workshops
-        <h3>Past</h3>
-        <ul>
-          <li>
-            <h4>Introduction to Film-making for Photographers</h4>
-            <p>so you have an HDSLR, now what?</p>
-          </li>
-          <li>
-            <h4>Introduction to Multimedia for Photojournalists</h4>
-            <p>2012. Workshop. International Center of Photography (teaching assistant to Miki Meek).</p>
-          </li>
-          <li>
-            <h4>Documentary Photography and Photojournalism Seminar</h4>
-            <p>2011-2012. Weekly class, three semesters, professional program. International Center of Photography (teaching assistant to Alison Morley).</p>
-          </li>
-        </ul>
-      </section>
-<!-- CURRICULUM VITAE -->
-<!--  // TODO move dates to begining of li, in a span with class=date (HTML5 date object?)  -->
-        <h2>Curriculum Vitae</h2>
-        <p>I've had some pretty cool experiences in my life! These are the highlights. I also have a my nicely formatted, downloadable, printable, full curriculum vitae if that's your kind of thing.</p>
-<!--  // TODO create and link to full CV -->
-      </header>
-      <!-- Exhibitions -->
-      <section>
-        <h3>Selected Exhibitions</h3>
-        <ul>
+## Exhibitions
+
+<!--  // TODO create and link to full resume -->
 <!--  // TODO add french exhibition -->
           <li><em>Open Viewing</em>, Review Santa Fe, CENTER. Santa Fe, NM. 2012.</li>
           <li><a href="/news/capture-release-icp/" title="ICP Full-time programs exhibition 2011"><em>Capture and Release</em></a>, International Center of Photography. Curated by Marina Berio and Alison Morley. New York, NY. 2011</li>

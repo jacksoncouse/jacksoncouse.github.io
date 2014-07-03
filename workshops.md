@@ -9,6 +9,8 @@ title: Workshops
 
 Every artist needs to photograph their artwork. While digital cameras have made taking picutres affordable and easy, getting a good image of your art is still a particularily tricky task. This workshop covers everything you need to know to produce high-quality renditions of your work for websites, grant applications, and your archives, including: a hands-on introduction to photographing 2D and 3D art, an overview of affordable lighting solutions, and a crash-course on how to manage digital images of artwork.
 
+$165.00 [Register Online](http://crystalbeshara.com/studio-cafe-classes/photographing-your-art)
+
 ## Courses
 
 ### The Photobook<a name="photobook"></a>
@@ -17,11 +19,7 @@ Every artist needs to photograph their artwork. While digital cameras have made 
 
 Create a photobook from your photographs and tell a visual story with style and impact. Learn about sequencing, layout, design, and printing options for producing a high-quality photographic book. Explore book types, materials, creative choices, and complete a simple and fun book project in class. Course includes a visit to [DAÏMÕN](http://daimon.qc.ca/), a resource centre for photographers.
 
-<!-- ## Articles and Tutorials 
-
-## Essays
-
-## Interviews -->
+<!-- ## Educational articles, essays, and tutorials -->
 
 ## Previous Offerings
 
