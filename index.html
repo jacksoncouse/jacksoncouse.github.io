@@ -7,7 +7,7 @@ title: Home
 <article>
   <!-- ARTICLE HEADER -->
   <header>
-      <h2>Jackson Couse is an artist from Ottawa, Canada.</h2>
+      <h2>Jackson Couse is an artist from Ottawa, Canada</h2>
       <!--<figure>
         <img src="/public/images/jackson-couse.jpg" alt="Portrait of Jackson couse">
         <figcaption>Here I am, standing beside the highway somewhere in Virginia.</figcaption>
@@ -62,14 +62,14 @@ title: Home
 <!-- DYNAMIC CONTENT -->
 
 <div class="posts">
-  <h2>News</h2>
+  <h3>News</h3>
   {% for post in paginator.posts %}
   <div class="post">
-    <h3 class="post-title">
+    <h4 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h4>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
