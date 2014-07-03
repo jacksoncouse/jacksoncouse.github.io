@@ -4,65 +4,61 @@ title: Home
 ---
 
 <!-- STATIC (mostly) CONTENT -->
-
-  <article>
-<!-- ARTICLE HEADER -->
-    <header>
-      <!-- Lead  -->
-        <p>Hi! I'm Jackson Couse, an artist from Ottawa, Canada.</p>
-        <p>I make socially-engaged art: I interact with people to tell stories and make things. I work close to home, in my neighborhood, and on the street. Sometimes I work with strangers and sometimes with people I know. Making pictures, books, and videos is a way good to know people and the world. I like thinking and talking about things like identity, community, family, place, and performance.</p>
-        <p>When I'm not making art projects, I run a small press devoted to publishing projects from the social landscape.</p> 
-        <p>I also teach workshops - with lots of interaction and participation - in photography and film-making.</p>
-        <p>If you'd like more information about me, I have a longer, more formal, third-person autobiography and an artist statement. Otherwise, please read on below for my projects and activities.</p>
-<!--        // TODO add name of press and link
-        // TODO add biography page (with nice print styles)
-        // TODO add artist statement (with nice print styles) -->
-    </header>
+<article>
+  <!-- ARTICLE HEADER -->
+  <header>
+      <p>Hi! I'm Jackson Couse, an artist from Ottawa, Canada.</p>
+      <p>I make socially-engaged art: I interact with people to tell stories and make things. I work close to home, in my neighborhood, and on the street. Sometimes I work with strangers and sometimes with people I know. Making pictures, books, and videos is a way good to know people and the world. I like thinking and talking about things like identity, community, family, place, and performance.</p>
+      <p>When I'm not making art projects, I run a small press devoted to publishing projects from the social landscape.</p> 
+      <p>I also teach workshops - with lots of interaction and participation - in photography and film-making.</p>
+      <p>If you'd like more information about me, I have a longer, more formal, third-person autobiography and an artist statement. Otherwise, please read on below for my projects and activities.</p>
+  </header>
 <!-- PROJECTS (initiated by me) -->
-      <section>
-        <h2>Selected Projects</h2>
-        <p>I work in projects. Usually I have a few on the go at once, each taking several months to several years to complete.</p>
-        <ul>
-          <li>
-            <h3><a href="">Sociological Walk</a></h3>
-            <p>The <em>Sociological Walk</em> was a performance, intervention, and investigation exploring community life in the Somerset West neighborhood in Ottawa, Canada, where I grew up.</p>
-          </li>
-          <li>
-            <h3><a href="">Queen's Diner</a></h3>
-            <p>For a couple of years I lived in Queens, New York, and around the corner from my house was Hugue and Sara's diner: Magazine Wells. Hugue was from Quebec, Sara from Queens. The diner was the best of both worlds, and my second home (and a lot of other people's, too).</p>
-          </li>
-          <li>
-            <h3><a href="">Home Ice</a></h3>
-            <p>I was living in New York and feeling pretty homesick, so I started going to hockey games. <em>Home Ice</em> was made at Aviator Arena in Brooklyn, New York, during home games of the New York Aviators, a semi-pro hockey team.</p>
-          </li>
-          <li>  
-            <h3><a href="">Playing House</a></h3>
-            <p>My first long-term project. Fait Maison (French for "home made") was an art collective and performance series that took place in a house in Gatineau, Quebec. I photographed their performances for three years.</p>
-          </li>
-        </ul>
-      </section>
-<!-- WORKSHOPS -->
-      <section>
-      <h2>Upcoming Workshops</h2>
-        <ul>
-          <li>
-            <h4>Photographing Artwork</h4>
-            <p>How to photograph art.</p>
-          </li>
-          <li>
-            <h4>Digital Assignment Photography</h4>
-            <p>how to do an assignment.</p>
-          </li>
-        </ul>
-      </section>
-    </article>
+  <section>
+    <h2>Selected Projects</h2>
+    <p>I work in projects. Usually I have a few on the go at once, each taking several months to several years to complete.</p>
+    <ul>
+      <li>
+        <h3><a href="">Sociological Walk</a></h3>
+        <p>The <em>Sociological Walk</em> was a performance, intervention, and investigation exploring community life in the Somerset West neighborhood in Ottawa, Canada, where I grew up.</p>
+      </li>
+      <li>
+        <h3><a href="">Queen's Diner</a></h3>
+        <p>For a couple of years I lived in Queens, New York, and around the corner from my house was Hugue and Sara's diner: Magazine Wells. Hugue was from Quebec, Sara from Queens.</p>
+      </li>
+      <li>
+        <h3><a href="">Home Ice</a></h3>
+        <p>I was living in New York and feeling pretty homesick, so I started going to hockey games. <em>Home Ice</em> was made at Aviator Arena in Brooklyn, New York, during home games of the New York Aviators, a semi-pro hockey team.</p>
+      </li>
+      <li>  
+        <h3><a href="">Playing House</a></h3>
+        <p>Fait Maison (French for "home made") was an art collective and performance series that took place in a house in Gatineau, Quebec. I photographed their performances for three years.</p>
+      </li>
+    </ul>
+  </section>
+  <!-- WORKSHOPS -->
+  <section>
+  <h2>Upcoming Workshops</h2>
+    <ul>
+      <li>
+        <h4>Photographing Artwork</h4>
+        <p>How to photograph art.</p>
+      </li>
+      <li>
+        <h4>Digital Assignment Photography</h4>
+        <p>how to do an assignment.</p>
+      </li>
+    </ul>
+  </section>
+</article>
 
 <!-- DYNAMIC CONTENT -->
 
 <div class="posts">
+  <h2>News</h2>
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h3 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
