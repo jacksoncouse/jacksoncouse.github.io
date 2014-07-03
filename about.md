@@ -7,7 +7,7 @@ Jackson Couse (1984) is an artist from Ottawa, Canada.
 
 He studied photography at The International Center of Photography (New York) and Algonquin College (Ottawa).
 
-His work has been featured in Capriscious, Blackflash, Ciel Variable, and Canadian Art magazines. He has exhibited at CENTER (Santa Fe, NM), the International Center of Photography, Galerie SAW Gallery (Ottawa), and DAIMON (Gatineau). 
+His work has been featured in Capricious, Blackflash, Ciel Variable, and Canadian Art magazines. He has exhibited at CENTER (Santa Fe, NM), the International Center of Photography, Galerie SAW Gallery (Ottawa), and DAIMON (Gatineau). 
 
 Commissions include SAW Video, The New York Times, Montreal Gazette, FASHION, Food and Wine, Tasting Table, PBS NewsHour, CBC Radio, and Radio-Canada.
 

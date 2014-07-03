@@ -22,3 +22,9 @@ Create a photobook from your photographs and tell a visual story with style and 
 ## Essays
 
 ## Interviews -->
+
+## Previous Offerings
+
+- **Introduction to Film-making for Photographers** workshop. Fall 2012 and Spring 2013, the School for The Photographic Arts: Ottawa
+- **Introduction to Multimedia for Photojournalists** workshop. Winter 2012, International Center of Photography (teaching assistant to Miki Meek).
+- **Documentary Photography and Photojournalism** weekly seminar. 2011-2012, three semesters in International Center of Photography professional program (teaching assistant to Alison Morley).
