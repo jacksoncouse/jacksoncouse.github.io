@@ -21,6 +21,8 @@ $165.00 [Register Online](http://crystalbeshara.com/studio-cafe-classes/photogra
 
 Create a photobook from your photographs and tell a visual story with style and impact. Learn about sequencing, layout, design, and printing options for producing a high-quality photographic book. Explore book types, materials, creative choices, and complete a simple and fun book project in class. Course includes a visit to [DAÏMÕN](http://daimon.qc.ca/), a resource centre for photographers.
 
+----
+
 <!-- ## Educational articles, essays, and tutorials -->
 
 ## Previous Offerings
