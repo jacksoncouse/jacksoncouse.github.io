@@ -3,7 +3,7 @@ layout: page
 title: Workshops
 ---
 
-### [Photographing Artwork](http://crystalbeshara.com/studio-cafe-classes/photographing-your-art)
+### [Photographing Artwork](http://crystalbeshara.com/studio-cafe-classes/photographing-your-art)<a name="photographing-artwork"></a>
 
 #### August 6,13, 20, and 27, 2014, from 7pm to 9pm, at the [Studio Cafe](http://www.thestudiocafe.ca/) in Ottawa
 
@@ -11,9 +11,11 @@ Every artist needs to photograph their artwork. While digital cameras have made 
 
 ## Courses
 
-### The Photobook
+### The Photobook<a name="photobook"></a>
 
+#### Tuesday evenings, Septemeber to December 2014, at Glebe Collegiate Institute in Ottawa
 
+Create a photobook from your photographs and tell a visual story with style and impact. Learn about sequencing, layout, design, and printing options for producing a high-quality photographic book. Explore book types, materials, creative choices, and complete a simple and fun book project in class. Course includes a visit to [DAÏMÕN](http://daimon.qc.ca/), a resource centre for photographers.
 
 <!-- ## Articles and Tutorials 
 
