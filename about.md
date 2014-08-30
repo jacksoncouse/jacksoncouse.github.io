@@ -3,12 +3,28 @@ layout: page
 title: About
 ---
 
-Jackson Couse (1984) is an artist, documentarian, technologist, and teacher from Ottawa, Canada.
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-He studied photography at The International Center of Photography (New York) and Algonquin College (Ottawa).
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-His work has been featured in Capricious, Blackflash, Ciel Variable, and Canadian Art magazines. He has exhibited at CENTER (Santa Fe, NM), the International Center of Photography, Galerie SAW Gallery (Ottawa), and DAIMON (Gatineau). 
+There are currently two themes built on Poole:
 
-Commissions include SAW Video, The New York Times, Montreal Gazette, FASHION, Food and Wine, Tasting Table, PBS NewsHour, CBC Radio, and Radio-Canada.
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-Jackson Couse is the editor of [Tuts+ Photography](http://photography.tutsplus.com/), and he has taught photography at the International Center of Photography's [Documentary Photography and Photojournalism](http://icp.edu/school/one-year-certificate/documentary-photography-and-photojournalism) program and the [School for the Photographic Arts: Ottawa](http://spao.ca/).
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
