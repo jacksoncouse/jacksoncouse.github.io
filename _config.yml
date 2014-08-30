@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Jackson Couse
-tagline:          ''
+tagline:          'Photographer, artist, documentarian, teacher. Ottawa, Canada'
 description:      'Portfolio and archive of Jackson Couse: artist, documentarian, technologist, and teacher from Ottawa, Canada. '
 url:              http://couse.ca
 baseurl:          '/'
@@ -20,5 +20,5 @@ author:
 # Custom vars
 version:          1.0.0
 
-github:           https://github.com/jacksoncouse
-  repo:           https://github.com/jacksoncouse/jacksoncouse.github.io
+github:           
+  repo:           https://github.com/jacksoncouse
