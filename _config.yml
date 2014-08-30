@@ -6,10 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            jacksoncouse.com
-tagline:          'by Jackson Couse'
+title:            Jackson Couse
+tagline:          ''
 description:      'Portfolio and archive of Jackson Couse: artist, documentarian, technologist, and teacher from Ottawa, Canada. '
-url:              http://jacksoncouse.github.io
+url:              http://couse.ca
 baseurl:          '/'
 paginate:         5
 
@@ -20,5 +20,5 @@ author:
 # Custom vars
 version:          1.0.0
 
-github:
+github:           https://github.com/jacksoncouse
   repo:           https://github.com/jacksoncouse/jacksoncouse.github.io
