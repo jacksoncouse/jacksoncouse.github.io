@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Jackson Couse (1984) is an artist from Ottawa, Canada.
+Jackson Couse (1984) is an artist, documentarian, technologist, and teacher from Ottawa, Canada.
 
 He studied photography at The International Center of Photography (New York) and Algonquin College (Ottawa).
 
