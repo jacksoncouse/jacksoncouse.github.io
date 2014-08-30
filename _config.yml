@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Jackson Couse
 tagline:          'Photographer, artist, documentarian, teacher. Ottawa, Canada'
-description:      'Portfolio and archive of Jackson Couse: artist, documentarian, technologist, and teacher from Ottawa, Canada. '
+description:      'Artist, documentarian, and teacher from Ottawa, Canada. '
 url:              http://couse.ca
 baseurl:          '/'
 paginate:         5
