@@ -11,7 +11,7 @@ tagline:          'Photographer, artist, documentarian, teacher. Ottawa, Canada'
 description:      'Artist, documentarian, and editor from Ottawa, Canada. '
 url:              http://couse.ca
 baseurl:          '/'
-paginate:         5
+paginate:         3
 
 author:
   name:           'Jackson Couse'
