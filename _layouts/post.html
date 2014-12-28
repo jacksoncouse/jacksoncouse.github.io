@@ -5,22 +5,18 @@ layout: default
 <article class="post">
   <header>
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span class="post-date">{{ page.date | date_to_long_string }}</span>
   <header>
   {{ content }}
-  <footer class="related">
-    <h2>Related Posts</h2>
-    <ul class="related-posts">
-      {% for post in site.related_posts limit:3 %}
-        <li>
-          <h3>
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
-              <small>{{ post.date | date_to_string }}</small>
-            </a>
-          </h3>
-        </li>
+  
+  {% if page.previous %} 
+    <footer class="previous">
+    <h2>Previous</h2>
+      {% for post in site.related_posts limit:1 %}
+        <h3><a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title }}</a></h3>
+        <h4><small>{{ post.date | date_to_long_string }}</small></h4>
+        {% if post.hook %}<h5 class="post.hook">{{ post.hook}}</h5>{% endif %}
       {% endfor %}
-    </ul>
-  </footer>
+    </footer>
+  {% endif %}
 </article>
