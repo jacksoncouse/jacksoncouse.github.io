@@ -10,7 +10,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>jekyll-ragadjust/ragadjust.rb at master · eulenherr/jekyll-ragadjust</title>
+    <title>ragadjust/ragadjust.js at master · nathanford/ragadjust</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -19,8 +19,8 @@
     <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
     <meta property="fb:app_id" content="1401488693436528">
 
-      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="eulenherr/jekyll-ragadjust" name="twitter:title" /><meta content="jekyll-ragadjust - Rag Adjust for Jekyll" name="twitter:description" /><meta content="https://avatars1.githubusercontent.com/u/1244797?v=3&amp;s=400" name="twitter:image:src" />
-<meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars1.githubusercontent.com/u/1244797?v=3&amp;s=400" property="og:image" /><meta content="eulenherr/jekyll-ragadjust" property="og:title" /><meta content="https://github.com/eulenherr/jekyll-ragadjust" property="og:url" /><meta content="jekyll-ragadjust - Rag Adjust for Jekyll" property="og:description" />
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="nathanford/ragadjust" name="twitter:title" /><meta content="ragadjust - A bit of JavaScript to fix your text rag for prepositions, small words, or emphasis." name="twitter:description" /><meta content="https://avatars3.githubusercontent.com/u/1165052?v=3&amp;s=400" name="twitter:image:src" />
+<meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars3.githubusercontent.com/u/1165052?v=3&amp;s=400" property="og:image" /><meta content="nathanford/ragadjust" property="og:title" /><meta content="https://github.com/nathanford/ragadjust" property="og:url" /><meta content="ragadjust - A bit of JavaScript to fix your text rag for prepositions, small words, or emphasis." property="og:description" />
 
       <meta name="browser-stats-url" content="/_stats">
     <link rel="assets" href="https://assets-cdn.github.com/">
@@ -34,7 +34,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="17E96A1C:2FD2:7F93D9A:54A042FB" name="octolytics-dimension-request_id" /><meta content="3035930" name="octolytics-actor-id" /><meta content="jacksoncouse" name="octolytics-actor-login" /><meta content="4fb5bfb1dac6d5121f46e8ca75c808e59d05d7b1fdc6817bce5da22f0be646f1" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="17E96A1C:627A:38693A2:54A04896" name="octolytics-dimension-request_id" /><meta content="3035930" name="octolytics-actor-id" /><meta content="jacksoncouse" name="octolytics-actor-login" /><meta content="4fb5bfb1dac6d5121f46e8ca75c808e59d05d7b1fdc6817bce5da22f0be646f1" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -44,7 +44,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="1QrZeRRbbDWmRdecB2twB39gp1IF/RG4CxQaARmCLKYaeZ0uL3Hpb5y7yeyR9B+lGFnLvmIG+PmuHAKXVQMruw==" name="csrf-token" />
+<meta content="1iVvTVxSK/vyJKubjgP8Q+f5qFceHGjWIN0cVVwAaQPpg1n0fg0dOCjD3hWydxxF5d6zuCAyXhcC24u5e9F7Qg==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-9bcf5def7eb44e2a101b20aaecf3707f4b0a10ab8f4d6eebec29371f821c4b29.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-988ddda9ae733ab44f308db199cb53eb70c7d0197679297459104380a8d923b3.css" media="all" rel="stylesheet" type="text/css" />
@@ -55,11 +55,11 @@
     <meta http-equiv="x-pjax-version" content="8adfdb5fdc7bd044b4c0142729d0410c">
 
       
-  <meta name="description" content="jekyll-ragadjust - Rag Adjust for Jekyll">
-  <meta name="go-import" content="github.com/eulenherr/jekyll-ragadjust git https://github.com/eulenherr/jekyll-ragadjust.git">
+  <meta name="description" content="ragadjust - A bit of JavaScript to fix your text rag for prepositions, small words, or emphasis.">
+  <meta name="go-import" content="github.com/nathanford/ragadjust git https://github.com/nathanford/ragadjust.git">
 
-  <meta content="1244797" name="octolytics-dimension-user_id" /><meta content="eulenherr" name="octolytics-dimension-user_login" /><meta content="19636205" name="octolytics-dimension-repository_id" /><meta content="eulenherr/jekyll-ragadjust" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="19636205" name="octolytics-dimension-repository_network_root_id" /><meta content="eulenherr/jekyll-ragadjust" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/eulenherr/jekyll-ragadjust/commits/master.atom" rel="alternate" title="Recent Commits to jekyll-ragadjust:master" type="application/atom+xml">
+  <meta content="1165052" name="octolytics-dimension-user_id" /><meta content="nathanford" name="octolytics-dimension-user_login" /><meta content="15225018" name="octolytics-dimension-repository_id" /><meta content="nathanford/ragadjust" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="15225018" name="octolytics-dimension-repository_network_root_id" /><meta content="nathanford/ragadjust" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/nathanford/ragadjust/commits/master.atom" rel="alternate" title="Recent Commits to ragadjust:master" type="application/atom+xml">
 
   </head>
 
@@ -82,7 +82,7 @@
 
 
       <div class="site-search repo-scope js-site-search" role="search">
-          <form accept-charset="UTF-8" action="/eulenherr/jekyll-ragadjust/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/eulenherr/jekyll-ragadjust/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+          <form accept-charset="UTF-8" action="/nathanford/ragadjust/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/nathanford/ragadjust/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
   <input type="text"
     class="js-site-search-field is-clearable"
     data-hotkey="s"
@@ -140,10 +140,10 @@
 
     <li class="dropdown-divider"></li>
     <li class="dropdown-header">
-      <span title="eulenherr/jekyll-ragadjust">This repository</span>
+      <span title="nathanford/ragadjust">This repository</span>
     </li>
       <li>
-        <a href="/eulenherr/jekyll-ragadjust/issues/new"><span class="octicon octicon-issue-opened"></span> New issue</a>
+        <a href="/nathanford/ragadjust/issues/new"><span class="octicon octicon-issue-opened"></span> New issue</a>
       </li>
 </ul>
 
@@ -164,7 +164,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ULZkXzslrTg4roE0MJxo5EpJJxYeljRF4EdJuOWia3hitEAOb1kY0sHiHBilzEsKEZ8C9FA+Z1b8+fZ+nygH6Q==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2UkUYeu2/r+SPXqZAT4GQlfkn1tc/2wZlBKp6PNfS2OVi/pPR/nd+8gJsGgKmVOkocbkf9a3UIle6chj8C/bzA==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -193,13 +193,13 @@
 <ul class="pagehead-actions">
 
     <li class="subscription">
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KBdszLBqyfBLSdppl+JpjYMGdOl1a3pQPMghvXHXXUInklJdYkBYM3B5KtO8Ocud9f4INhBC2r7Cw18eZW+s2w==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19636205" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="5WoCivHMVMcfwnxMIp+XYLU6QJ8id0+KLFYecLwvp9A5B4YqgwPv1XBMytLjOFzWi8JVnao5ziE3ANiSvBE3Xg==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="15225018" />
 
     <div class="select-menu js-menu-container js-select-menu">
-      <a class="social-count js-social-count" href="/eulenherr/jekyll-ragadjust/watchers">
-        1
+      <a class="social-count js-social-count" href="/nathanford/ragadjust/watchers">
+        11
       </a>
-      <a href="/eulenherr/jekyll-ragadjust/subscription"
+      <a href="/nathanford/ragadjust/subscription"
         class="minibutton select-menu-button with-count js-menu-target" role="button" tabindex="0" aria-haspopup="true">
         <span class="js-select-button">
           <span class="octicon octicon-eye"></span>
@@ -266,28 +266,28 @@
 
   <li>
     
-  <div class="js-toggler-container js-social-container starring-container ">
+  <div class="js-toggler-container js-social-container starring-container on">
 
-    <form accept-charset="UTF-8" action="/eulenherr/jekyll-ragadjust/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="CPZCdfvTgSViT+YVjLy3ZAbbjt3ES9WLtHEjeftZVRqHfwo2Ep5sqHmqkRuuQA+qCTmAxcRQXfDW5eX2YC9TVA==" /></div>
+    <form accept-charset="UTF-8" action="/nathanford/ragadjust/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xlxap1vPhlnad7XO3vB5A2BHn+u20icsfutdEZWH4dz3cJth1W9oCFqVon462wqzHc2JqM7MSqZ0zYp+1vO/sg==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
-        aria-label="Unstar this repository" title="Unstar eulenherr/jekyll-ragadjust">
+        aria-label="Unstar this repository" title="Unstar nathanford/ragadjust">
         <span class="octicon octicon-star"></span>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/eulenherr/jekyll-ragadjust/stargazers">
-          2
+        <a class="social-count js-social-count" href="/nathanford/ragadjust/stargazers">
+          144
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/eulenherr/jekyll-ragadjust/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="UKJj9c3r2JHgy1MLVKFKAM+2Kf+TrJQC0T6ai/ZfhlG/MWI9cDH9hjbKC0Dk6eNTbspblONYkMcDTotRnq/LHA==" /></div>
+    <form accept-charset="UTF-8" action="/nathanford/ragadjust/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7Rb4FMdyD6in411/6wTlGScOEl+cF0ypYd9j/DWSEGyb5G8QhRfnjRcVqvU4lALV/z7oKbG0Je+thWk4I77JwQ==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
-        aria-label="Star this repository" title="Star eulenherr/jekyll-ragadjust">
+        aria-label="Star this repository" title="Star nathanford/ragadjust">
         <span class="octicon octicon-star"></span>
         Star
       </button>
-        <a class="social-count js-social-count" href="/eulenherr/jekyll-ragadjust/stargazers">
-          2
+        <a class="social-count js-social-count" href="/nathanford/ragadjust/stargazers">
+          144
         </a>
 </form>  </div>
 
@@ -295,20 +295,20 @@
 
 
         <li>
-          <a href="/eulenherr/jekyll-ragadjust/fork" class="minibutton with-count js-toggler-target fork-button tooltipped-n" title="Fork your own copy of eulenherr/jekyll-ragadjust to your account" aria-label="Fork your own copy of eulenherr/jekyll-ragadjust to your account" rel="facebox nofollow">
+          <a href="/nathanford/ragadjust/fork" class="minibutton with-count js-toggler-target fork-button tooltipped-n" title="Fork your own copy of nathanford/ragadjust to your account" aria-label="Fork your own copy of nathanford/ragadjust to your account" rel="facebox nofollow">
             <span class="octicon octicon-repo-forked"></span>
             Fork
           </a>
-          <a href="/eulenherr/jekyll-ragadjust/network" class="social-count">0</a>
+          <a href="/nathanford/ragadjust/network" class="social-count">8</a>
         </li>
 
 </ul>
 
         <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
           <span class="mega-octicon octicon-repo"></span>
-          <span class="author"><a href="/eulenherr" class="url fn" itemprop="url" rel="author"><span itemprop="title">eulenherr</span></a></span><!--
+          <span class="author"><a href="/nathanford" class="url fn" itemprop="url" rel="author"><span itemprop="title">nathanford</span></a></span><!--
        --><span class="path-divider">/</span><!--
-       --><strong><a href="/eulenherr/jekyll-ragadjust" class="js-current-repository" data-pjax="#js-repo-pjax-container">jekyll-ragadjust</a></strong>
+       --><strong><a href="/nathanford/ragadjust" class="js-current-repository" data-pjax="#js-repo-pjax-container">ragadjust</a></strong>
 
           <span class="page-context-loader">
             <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
@@ -325,23 +325,23 @@
 <nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
      role="navigation"
      data-pjax="#js-repo-pjax-container"
-     data-issue-count-url="/eulenherr/jekyll-ragadjust/issues/counts">
+     data-issue-count-url="/nathanford/ragadjust/issues/counts">
   <ul class="sunken-menu-group">
     <li class="tooltipped tooltipped-w" aria-label="Code">
-      <a href="/eulenherr/jekyll-ragadjust" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /eulenherr/jekyll-ragadjust">
+      <a href="/nathanford/ragadjust" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /nathanford/ragadjust">
         <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
       <li class="tooltipped tooltipped-w" aria-label="Issues">
-        <a href="/eulenherr/jekyll-ragadjust/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /eulenherr/jekyll-ragadjust/issues">
+        <a href="/nathanford/ragadjust/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /nathanford/ragadjust/issues">
           <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
           <span class="js-issue-replace-counter"></span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>      </li>
 
     <li class="tooltipped tooltipped-w" aria-label="Pull Requests">
-      <a href="/eulenherr/jekyll-ragadjust/pulls" aria-label="Pull Requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /eulenherr/jekyll-ragadjust/pulls">
+      <a href="/nathanford/ragadjust/pulls" aria-label="Pull Requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /nathanford/ragadjust/pulls">
           <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull Requests</span>
           <span class="js-pull-replace-counter"></span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
@@ -349,7 +349,7 @@
 
 
       <li class="tooltipped tooltipped-w" aria-label="Wiki">
-        <a href="/eulenherr/jekyll-ragadjust/wiki" aria-label="Wiki" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g w" data-selected-links="repo_wiki /eulenherr/jekyll-ragadjust/wiki">
+        <a href="/nathanford/ragadjust/wiki" aria-label="Wiki" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g w" data-selected-links="repo_wiki /nathanford/ragadjust/wiki">
           <span class="octicon octicon-book"></span> <span class="full-word">Wiki</span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>      </li>
@@ -358,13 +358,13 @@
   <ul class="sunken-menu-group">
 
     <li class="tooltipped tooltipped-w" aria-label="Pulse">
-      <a href="/eulenherr/jekyll-ragadjust/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /eulenherr/jekyll-ragadjust/pulse">
+      <a href="/nathanford/ragadjust/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /nathanford/ragadjust/pulse">
         <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
     <li class="tooltipped tooltipped-w" aria-label="Graphs">
-      <a href="/eulenherr/jekyll-ragadjust/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /eulenherr/jekyll-ragadjust/graphs">
+      <a href="/nathanford/ragadjust/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /nathanford/ragadjust/graphs">
         <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
@@ -382,7 +382,7 @@
   <h3><span class="text-emphasized">HTTPS</span> clone URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
-           value="https://github.com/eulenherr/jekyll-ragadjust.git" readonly="readonly">
+           value="https://github.com/nathanford/ragadjust.git" readonly="readonly">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard minibutton zeroclipboard-button" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -396,7 +396,7 @@
   <h3><span class="text-emphasized">SSH</span> clone URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
-           value="git@github.com:eulenherr/jekyll-ragadjust.git" readonly="readonly">
+           value="git@github.com:nathanford/ragadjust.git" readonly="readonly">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard minibutton zeroclipboard-button" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -410,7 +410,7 @@
   <h3><span class="text-emphasized">Subversion</span> checkout URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
-           value="https://github.com/eulenherr/jekyll-ragadjust" readonly="readonly">
+           value="https://github.com/nathanford/ragadjust" readonly="readonly">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard minibutton zeroclipboard-button" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -428,10 +428,10 @@
 
 
 
-                <a href="/eulenherr/jekyll-ragadjust/archive/master.zip"
+                <a href="/nathanford/ragadjust/archive/master.zip"
                    class="minibutton sidebar-button"
-                   aria-label="Download the contents of eulenherr/jekyll-ragadjust as a zip file"
-                   title="Download the contents of eulenherr/jekyll-ragadjust as a zip file"
+                   aria-label="Download the contents of nathanford/ragadjust as a zip file"
+                   title="Download the contents of nathanford/ragadjust as a zip file"
                    rel="nofollow">
                   <span class="octicon octicon-cloud-download"></span>
                   Download ZIP
@@ -442,9 +442,9 @@
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
           
 
-<a href="/eulenherr/jekyll-ragadjust/blob/8859e1efcc00d5b4ec383b7c6b5b73209de632ff/ragadjust.rb" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/nathanford/ragadjust/blob/49a58869aed5d38b46644881d79bebfb010ecf5f/js/ragadjust.js" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:7a4bfb4470fe4561669711c8ab89c59d -->
+<!-- blob contrib key: blob_contributors:v21:759f43679a5d554052f8c19813750c75 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -490,7 +490,7 @@
 
             <div class="select-menu-item js-navigation-item selected">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/eulenherr/jekyll-ragadjust/blob/master/ragadjust.rb"
+              <a href="/nathanford/ragadjust/blob/master/js/ragadjust.js"
                  data-name="master"
                  data-skip-pjax="true"
                  rel="nofollow"
@@ -516,7 +516,7 @@
 </div> <!-- /.select-menu -->
 
   <div class="button-group right">
-    <a href="/eulenherr/jekyll-ragadjust/find/master"
+    <a href="/nathanford/ragadjust/find/master"
           class="js-show-file-finder minibutton empty-icon tooltipped tooltipped-s"
           data-pjax
           data-hotkey="t"
@@ -527,43 +527,60 @@
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/eulenherr/jekyll-ragadjust" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">jekyll-ragadjust</span></a></span></span><span class="separator">/</span><strong class="final-path">ragadjust.rb</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/nathanford/ragadjust" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">ragadjust</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/nathanford/ragadjust/tree/master/js" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">js</span></a></span><span class="separator">/</span><strong class="final-path">ragadjust.js</strong>
   </div>
 </div>
 
-<include-fragment class="commit commit-loader file-history-tease" src="/eulenherr/jekyll-ragadjust/contributors/master/ragadjust.rb">
-  <div class="file-history-tease-header">
-    Fetching contributors&hellip;
+
+  <div class="commit file-history-tease">
+    <div class="file-history-tease-header">
+        <img alt="" class="avatar" height="24" src="https://2.gravatar.com/avatar/6d84eb2cb7e4663e9c5bcfcd2566665c?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=x&amp;s=140" width="24" />
+        <span class="author"><span>Nathan Ford</span></span>
+        <time datetime="2014-01-06T13:06:54Z" is="relative-time">Jan 6, 2014</time>
+        <div class="commit-title">
+            <a href="/nathanford/ragadjust/commit/0a9da52fb4bbbad5b12b741583506473304b15c9" class="message" data-pjax="true" title="Fixed prepositions regex to not remove leading spaces and added prepositions to README">Fixed prepositions regex to not remove leading spaces and added prepo…</a>
+        </div>
+    </div>
+
+    <div class="participation">
+      <p class="quickstat">
+        <a href="#blob_contributors_box" rel="facebox">
+          <strong>0</strong>
+           contributors
+        </a>
+      </p>
+      
+    </div>
+    <div id="blob_contributors_box" style="display:none">
+      <h2 class="facebox-header">Users who have contributed to this file</h2>
+      <ul class="facebox-user-list">
+      </ul>
+    </div>
   </div>
 
-  <div class="participation">
-    <p class="loader-loading"><img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" /></p>
-    <p class="loader-error">Cannot retrieve contributors at this time</p>
-  </div>
-</include-fragment>
 <div class="file-box">
   <div class="file">
     <div class="meta clearfix">
       <div class="info file-name">
-          <span>43 lines (37 sloc)</span>
+          <span>55 lines (35 sloc)</span>
           <span class="meta-divider"></span>
-        <span>1.524 kb</span>
+        <span>1.885 kb</span>
       </div>
       <div class="actions">
         <div class="button-group">
-          <a href="/eulenherr/jekyll-ragadjust/raw/master/ragadjust.rb" class="minibutton " id="raw-url">Raw</a>
-            <a href="/eulenherr/jekyll-ragadjust/blame/master/ragadjust.rb" class="minibutton js-update-url-with-hash">Blame</a>
-          <a href="/eulenherr/jekyll-ragadjust/commits/master/ragadjust.rb" class="minibutton " rel="nofollow">History</a>
+          <a href="/nathanford/ragadjust/raw/master/js/ragadjust.js" class="minibutton " id="raw-url">Raw</a>
+            <a href="/nathanford/ragadjust/blame/master/js/ragadjust.js" class="minibutton js-update-url-with-hash">Blame</a>
+          <a href="/nathanford/ragadjust/commits/master/js/ragadjust.js" class="minibutton " rel="nofollow">History</a>
         </div><!-- /.button-group -->
 
 
               <a class="octicon-button tooltipped tooltipped-n js-update-url-with-hash"
                  aria-label="Clicking this button will fork this project so you can edit the file"
-                 href="/eulenherr/jekyll-ragadjust/edit/master/ragadjust.rb"
+                 href="/nathanford/ragadjust/edit/master/js/ragadjust.js"
                  data-method="post" rel="nofollow"><span class="octicon octicon-pencil"></span></a>
 
             <a class="octicon-button danger tooltipped tooltipped-s"
-               href="/eulenherr/jekyll-ragadjust/delete/master/ragadjust.rb"
+               href="/nathanford/ragadjust/delete/master/js/ragadjust.js"
                aria-label="Fork this project and delete file"
                data-method="post" data-test-id="delete-blob-file" rel="nofollow">
           <span class="octicon octicon-trashcan"></span>
@@ -572,185 +589,227 @@
     </div>
     
 
-  <div class="blob-wrapper data type-ruby">
+  <div class="blob-wrapper data type-javascript">
       <table class="highlight tab-size-8 js-file-line-container">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code js-file-line"><span class="pl-k">module</span> <span class="pl-en">Jekyll</span></td>
+        <td id="LC1" class="blob-code js-file-line"><span class="pl-en">ragadjust</span> <span class="pl-k">=</span> <span class="pl-st">function</span> (<span class="pl-vpf">s</span>, <span class="pl-vpf">method</span>) {</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code js-file-line">	<span class="pl-k">module</span> <span class="pl-en">Filters</span></td>
+        <td id="LC2" class="blob-code js-file-line">	</td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code js-file-line">		<span class="pl-k">def</span> <span class="pl-en">ragadjust</span>(<span class="pl-vpf">text</span>, <span class="pl-vpf">method</span> <span class="pl-k">=</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC3" class="blob-code js-file-line">	<span class="pl-k">if</span> (<span class="pl-s3">document</span>.querySelectorAll) {</td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code js-file-line">			preps <span class="pl-k">=</span> <span class="pl-sr"><span class="pl-pds">/</span><span class="pl-sr">(<span class="pl-cce">\s</span>|^|&gt;)(<span class="pl-sr">(aboard|about|above|across|after|against|along|amid|among|anti|around|before|behind|below|beneath|beside|besides|between|beyond|concerning|considering|despite|down|during|except|excepting|excluding|following|from|inside|into|like|minus|near|onto|opposite|outside|over|past|plus|regarding|round|save|since|than|that|this|through|toward|towards|under|underneath|unlike|until|upon|versus|with|within|without)</span><span class="pl-cce">\s</span>)</span>+<span class="pl-pds">/i</span></span></td>
+        <td id="LC4" class="blob-code js-file-line">	</td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code js-file-line">			smallwords <span class="pl-k">=</span> <span class="pl-sr"><span class="pl-pds">/</span><span class="pl-sr">(<span class="pl-cce">\s</span>|^)(<span class="pl-sr">(<span class="pl-src">[a-zA-Z-_(]</span><span class="pl-sra">{1,2}</span><span class="pl-sr">(&#39;|’)</span>*<span class="pl-src">[a-zA-Z-_,;]</span><span class="pl-sra">{0,1}</span>?<span class="pl-cce">\s</span>)</span>+)</span><span class="pl-pds">/i</span></span> <span class="pl-c"># words with 3 or less characters</span></td>
+        <td id="LC5" class="blob-code js-file-line">		<span class="pl-s">var</span> eles <span class="pl-k">=</span> <span class="pl-s3">document</span>.querySelectorAll(s),</td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code js-file-line">			dashes <span class="pl-k">=</span> <span class="pl-sr"><span class="pl-pds">/</span><span class="pl-cce">\s</span><span class="pl-sr">(<span class="pl-src">[-–—]</span>)</span><span class="pl-pds">/i</span></span></td>
+        <td id="LC6" class="blob-code js-file-line">				elescount <span class="pl-k">=</span> eles.<span class="pl-sc">length</span>,</td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code js-file-line">			emphasis <span class="pl-k">=</span> <span class="pl-sr"><span class="pl-pds">/</span><span class="pl-sr">(&lt;<span class="pl-sr">(strong|em|b|i)</span>&gt;)(<span class="pl-sr">(<span class="pl-src">[^<span class="pl-cce">\s</span>]</span>+<span class="pl-cce">\s</span>*)</span><span class="pl-sra">{2,3}</span>)</span>?<span class="pl-sr">(&lt;<span class="pl-cce">\/</span><span class="pl-sr">(strong|em|b|i)</span>&gt;)</span><span class="pl-pds">/i</span></span></td>
+        <td id="LC7" class="blob-code js-file-line">				</td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code js-file-line">			numbers <span class="pl-k">=</span> <span class="pl-sr"><span class="pl-pds">/</span><span class="pl-sr">(<span class="pl-src">[0-9]</span>)</span>+<span class="pl-cce">\s</span><span class="pl-pds">/</span></span></td>
+        <td id="LC8" class="blob-code js-file-line">				preps <span class="pl-k">=</span><span class="pl-sr"> <span class="pl-pds">/</span>(<span class="pl-c1">\s</span><span class="pl-k">|</span><span class="pl-k">^</span><span class="pl-k">|</span>&gt;)((aboard<span class="pl-k">|</span>about<span class="pl-k">|</span>above<span class="pl-k">|</span>across<span class="pl-k">|</span>after<span class="pl-k">|</span>against<span class="pl-k">|</span>along<span class="pl-k">|</span>amid<span class="pl-k">|</span>among<span class="pl-k">|</span>anti<span class="pl-k">|</span>around<span class="pl-k">|</span>before<span class="pl-k">|</span>behind<span class="pl-k">|</span>below<span class="pl-k">|</span>beneath<span class="pl-k">|</span>beside<span class="pl-k">|</span>besides<span class="pl-k">|</span>between<span class="pl-k">|</span>beyond<span class="pl-k">|</span>concerning<span class="pl-k">|</span>considering<span class="pl-k">|</span>despite<span class="pl-k">|</span>down<span class="pl-k">|</span>during<span class="pl-k">|</span>except<span class="pl-k">|</span>excepting<span class="pl-k">|</span>excluding<span class="pl-k">|</span>following<span class="pl-k">|</span>from<span class="pl-k">|</span>inside<span class="pl-k">|</span>into<span class="pl-k">|</span>like<span class="pl-k">|</span>minus<span class="pl-k">|</span>near<span class="pl-k">|</span>onto<span class="pl-k">|</span>opposite<span class="pl-k">|</span>outside<span class="pl-k">|</span>over<span class="pl-k">|</span>past<span class="pl-k">|</span>plus<span class="pl-k">|</span>regarding<span class="pl-k">|</span>round<span class="pl-k">|</span>save<span class="pl-k">|</span>since<span class="pl-k">|</span>than<span class="pl-k">|</span>that<span class="pl-k">|</span>this<span class="pl-k">|</span>through<span class="pl-k">|</span>toward<span class="pl-k">|</span>towards<span class="pl-k">|</span>under<span class="pl-k">|</span>underneath<span class="pl-k">|</span>unlike<span class="pl-k">|</span>until<span class="pl-k">|</span>upon<span class="pl-k">|</span>versus<span class="pl-k">|</span>with<span class="pl-k">|</span>within<span class="pl-k">|</span>without)<span class="pl-c1">\s</span>)<span class="pl-k">+</span><span class="pl-pds">/</span>gi</span>,</td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code js-file-line">
-</td>
+        <td id="LC9" class="blob-code js-file-line">				</td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code js-file-line">			<span class="pl-k">if</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>small-words<span class="pl-pds">&#39;</span></span> <span class="pl-k">||</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span></td>
+        <td id="LC10" class="blob-code js-file-line">				smallwords <span class="pl-k">=</span><span class="pl-sr"> <span class="pl-pds">/</span>(<span class="pl-c1">\s</span><span class="pl-k">|</span><span class="pl-k">^</span>)((<span class="pl-c1">[<span class="pl-c1">a-zA-Z</span>-_(]</span><span class="pl-k">{1,2}</span>(&#39;<span class="pl-k">|</span>’)<span class="pl-k">*</span><span class="pl-c1">[<span class="pl-c1">a-zA-Z</span>-_,;]</span><span class="pl-k">{0,1}?</span><span class="pl-c1">\s</span>)<span class="pl-k">+</span>)<span class="pl-pds">/</span>gi</span>, <span class="pl-c">// words with 3 or less characters</span></td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code js-file-line">				text.gsub!(smallwords) {</td>
+        <td id="LC11" class="blob-code js-file-line">				</td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code js-file-line">					<span class="pl-s3">Regexp</span>.last_match[<span class="pl-c1">1</span>] <span class="pl-k">+</span> <span class="pl-s3">Regexp</span>.last_match[<span class="pl-c1">2</span>].gsub(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-cce">\s</span><span class="pl-pds">/i</span></span>, <span class="pl-s1"><span class="pl-pds">&#39;</span>&amp;#160;<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC12" class="blob-code js-file-line">				dashes <span class="pl-k">=</span><span class="pl-sr"> <span class="pl-pds">/</span>(<span class="pl-c1">[-–—]</span>)<span class="pl-c1">\s</span><span class="pl-pds">/</span>gi</span>,</td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code js-file-line">				}</td>
+        <td id="LC13" class="blob-code js-file-line">				</td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code js-file-line">			<span class="pl-k">end</span></td>
+        <td id="LC14" class="blob-code js-file-line">				emphasis <span class="pl-k">=</span><span class="pl-sr"> <span class="pl-pds">/</span>(&lt;(strong<span class="pl-k">|</span>em<span class="pl-k">|</span>b<span class="pl-k">|</span>i)&gt;)((<span class="pl-c1">[<span class="pl-k">^</span><span class="pl-c1">\s</span>]</span><span class="pl-k">+</span><span class="pl-c1">\s</span><span class="pl-k">*</span>)<span class="pl-k">{2,3}</span>)<span class="pl-k">?</span>(&lt;<span class="pl-cce">\/</span>(strong<span class="pl-k">|</span>em<span class="pl-k">|</span>b<span class="pl-k">|</span>i)&gt;)<span class="pl-pds">/</span>gi</span>;</td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code js-file-line">
-</td>
+        <td id="LC15" class="blob-code js-file-line">		</td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code js-file-line">			<span class="pl-k">if</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>prepositions<span class="pl-pds">&#39;</span></span> <span class="pl-k">||</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span></td>
+        <td id="LC16" class="blob-code js-file-line">		<span class="pl-k">while</span> (elescount<span class="pl-k">--</span> <span class="pl-k">&gt;</span> <span class="pl-c1">0</span>) {</td>
       </tr>
       <tr>
         <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code js-file-line">				text.gsub!(preps) {</td>
+        <td id="LC17" class="blob-code js-file-line">			</td>
       </tr>
       <tr>
         <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code js-file-line">					<span class="pl-s3">Regexp</span>.last_match[<span class="pl-c1">1</span>] <span class="pl-k">+</span> <span class="pl-s3">Regexp</span>.last_match[<span class="pl-c1">2</span>].gsub(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-cce">\s</span><span class="pl-pds">/i</span></span>, <span class="pl-s1"><span class="pl-pds">&#39;</span>&amp;#160;<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC18" class="blob-code js-file-line">			<span class="pl-s">var</span> ele <span class="pl-k">=</span> eles[elescount],</td>
       </tr>
       <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code js-file-line">				}</td>
+        <td id="LC19" class="blob-code js-file-line">					elehtml <span class="pl-k">=</span> ele.innerHTML;</td>
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code js-file-line">			<span class="pl-k">end</span></td>
+        <td id="LC20" class="blob-code js-file-line">					</td>
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code js-file-line">
-</td>
+        <td id="LC21" class="blob-code js-file-line">			<span class="pl-k">if</span> (method <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>prepositions<span class="pl-pds">&#39;</span></span> <span class="pl-k">||</span> method <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span>) </td>
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code js-file-line">			<span class="pl-k">if</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>dashes<span class="pl-pds">&#39;</span></span> <span class="pl-k">||</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span></td>
+        <td id="LC22" class="blob-code js-file-line">			</td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code js-file-line">				text.gsub!(dashes) { |<span class="pl-vo">match</span>|</td>
+        <td id="LC23" class="blob-code js-file-line">				<span class="pl-c">// replace prepositions (greater than 3 characters)</span></td>
       </tr>
       <tr>
         <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code js-file-line">					match.gsub(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-cce">\s</span><span class="pl-pds">/</span></span>, <span class="pl-s1"><span class="pl-pds">&#39;</span>&amp;#160;<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC24" class="blob-code js-file-line">				elehtml <span class="pl-k">=</span> elehtml.<span class="pl-s3">replace</span>(preps, <span class="pl-st">function</span>(<span class="pl-vpf">contents</span>, <span class="pl-vpf">p1</span>, <span class="pl-vpf">p2</span>) {</td>
       </tr>
       <tr>
         <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code js-file-line">				}</td>
+        <td id="LC25" class="blob-code js-file-line">				        <span class="pl-k">return</span> p1 <span class="pl-k">+</span> p2.<span class="pl-s3">replace</span>(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-c1">\s</span><span class="pl-pds">/</span>gi</span>, <span class="pl-s1"><span class="pl-pds">&#39;</span>&amp;#160;<span class="pl-pds">&#39;</span></span>);</td>
       </tr>
       <tr>
         <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code js-file-line">			<span class="pl-k">end</span></td>
+        <td id="LC26" class="blob-code js-file-line">				    });</td>
       </tr>
       <tr>
         <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code js-file-line">
-</td>
+        <td id="LC27" class="blob-code js-file-line">			</td>
       </tr>
       <tr>
         <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code js-file-line">			<span class="pl-k">if</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>emphasis<span class="pl-pds">&#39;</span></span> <span class="pl-k">||</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span></td>
+        <td id="LC28" class="blob-code js-file-line">			<span class="pl-k">if</span> (method <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>small-words<span class="pl-pds">&#39;</span></span> <span class="pl-k">||</span> method <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span>) </td>
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code js-file-line">				text.gsub!(dashes) {</td>
+        <td id="LC29" class="blob-code js-file-line">				</td>
       </tr>
       <tr>
         <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code js-file-line">					<span class="pl-s3">Regexp</span>.last_match[<span class="pl-c1">1</span>] <span class="pl-k">+</span> <span class="pl-s3">Regexp</span>.last_match[<span class="pl-c1">3</span>].gsub(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-cce">\s</span><span class="pl-pds">/i</span></span>, <span class="pl-s1"><span class="pl-pds">&#39;</span>&amp;#160;<span class="pl-pds">&#39;</span></span>) <span class="pl-k">+</span> <span class="pl-s3">Regexp</span>.last_match[<span class="pl-c1">5</span>]</td>
+        <td id="LC30" class="blob-code js-file-line">				<span class="pl-c">// replace small words</span></td>
       </tr>
       <tr>
         <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code js-file-line">				}</td>
+        <td id="LC31" class="blob-code js-file-line">				elehtml <span class="pl-k">=</span> elehtml.<span class="pl-s3">replace</span>(smallwords, <span class="pl-st">function</span>(<span class="pl-vpf">contents</span>, <span class="pl-vpf">p1</span>, <span class="pl-vpf">p2</span>) {</td>
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code js-file-line">			<span class="pl-k">end</span></td>
+        <td id="LC32" class="blob-code js-file-line">		        <span class="pl-k">return</span> p1 <span class="pl-k">+</span> p2.<span class="pl-s3">replace</span>(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-c1">\s</span><span class="pl-pds">/</span>g</span>, <span class="pl-s1"><span class="pl-pds">&#39;</span>&amp;#160;<span class="pl-pds">&#39;</span></span>);</td>
       </tr>
       <tr>
         <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code js-file-line">
-</td>
+        <td id="LC33" class="blob-code js-file-line">		    });</td>
       </tr>
       <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code js-file-line">			<span class="pl-k">if</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>numbers<span class="pl-pds">&#39;</span></span> <span class="pl-k">||</span> method <span class="pl-k">===</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span></td>
+        <td id="LC34" class="blob-code js-file-line">		    </td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code js-file-line">				text.gsub!(numbers) { |<span class="pl-vo">match</span>|</td>
+        <td id="LC35" class="blob-code js-file-line">		  <span class="pl-k">if</span> (method <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>dashes<span class="pl-pds">&#39;</span></span> <span class="pl-k">||</span> method <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span>) </td>
       </tr>
       <tr>
         <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code js-file-line">					match.gsub(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-cce">\s</span><span class="pl-pds">/</span></span>, <span class="pl-s1"><span class="pl-pds">&#39;</span>&amp;#160;<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC36" class="blob-code js-file-line">		  	</td>
       </tr>
       <tr>
         <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code js-file-line">				}</td>
+        <td id="LC37" class="blob-code js-file-line">		  	<span class="pl-c">// replace small words</span></td>
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code js-file-line">			<span class="pl-k">end</span></td>
+        <td id="LC38" class="blob-code js-file-line">		  	elehtml <span class="pl-k">=</span> elehtml.<span class="pl-s3">replace</span>(dashes, <span class="pl-st">function</span>(<span class="pl-vpf">contents</span>) {</td>
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code js-file-line">
-</td>
+        <td id="LC39" class="blob-code js-file-line">		        <span class="pl-k">return</span> contents.<span class="pl-s3">replace</span>(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-c1">\s</span><span class="pl-pds">/</span>g</span>, <span class="pl-s1"><span class="pl-pds">&#39;</span>&amp;#160;<span class="pl-pds">&#39;</span></span>);</td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code js-file-line">			text</td>
+        <td id="LC40" class="blob-code js-file-line">		    }); </td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code js-file-line">		<span class="pl-k">end</span></td>
+        <td id="LC41" class="blob-code js-file-line">			</td>
       </tr>
       <tr>
         <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code js-file-line">	<span class="pl-k">end</span></td>
+        <td id="LC42" class="blob-code js-file-line">			<span class="pl-k">if</span> (method <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>emphasis<span class="pl-pds">&#39;</span></span> <span class="pl-k">||</span> method <span class="pl-k">==</span> <span class="pl-s1"><span class="pl-pds">&#39;</span>all<span class="pl-pds">&#39;</span></span>) </td>
       </tr>
       <tr>
         <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code js-file-line"><span class="pl-k">end</span></td>
+        <td id="LC43" class="blob-code js-file-line">			</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code js-file-line">				<span class="pl-c">// emphasized text</span></td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code js-file-line">				elehtml <span class="pl-k">=</span> elehtml.<span class="pl-s3">replace</span>(emphasis, <span class="pl-st">function</span>(<span class="pl-vpf">contents</span>, <span class="pl-vpf">p1</span>, <span class="pl-vpf">p2</span>, <span class="pl-vpf">p3</span>, <span class="pl-vpf">p4</span>, <span class="pl-vpf">p5</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code js-file-line">				        <span class="pl-k">return</span> p1 <span class="pl-k">+</span> p3.<span class="pl-s3">replace</span>(<span class="pl-sr"><span class="pl-pds">/</span><span class="pl-c1">\s</span><span class="pl-pds">/</span>gi</span>, <span class="pl-s1"><span class="pl-pds">&#39;</span>&amp;#160;<span class="pl-pds">&#39;</span></span>) <span class="pl-k">+</span> p5;</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code js-file-line">				    });</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code js-file-line">			</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code js-file-line">			ele.innerHTML <span class="pl-k">=</span> elehtml;</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code js-file-line">			</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code js-file-line">		}</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code js-file-line">	</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code js-file-line">	}</td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code js-file-line">	</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code js-file-line">};</td>
       </tr>
 </table>
 
@@ -794,7 +853,7 @@
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2014 <span title="0.05109s from github-fe123-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2014 <span title="0.05464s from github-fe134-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
