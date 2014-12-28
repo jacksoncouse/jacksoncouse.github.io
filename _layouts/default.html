@@ -5,7 +5,7 @@
 
   <body>
 
-    <article class="container content">
+    <div class="container content">
       <header class="masthead">
         <h1 class="masthead-title">
           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
@@ -21,10 +21,11 @@
 
       {{ content }}
 
-      <footer class="footer">
-        <p><small>Copyright &copy; 2003-{{ site.time | date: '%Y' }} <a href="http://twitter.com/jacksoncouse">{{ site.title }}</a>. All rights reserved.</small></p>
+      <footer class="footer" itemscope itemtype="http://schema.org/Person">
+        <p><small>Elsewhere: <a href="http://tutsplus.com/authors/jackson-couse" rel="author" rel="external">Tuts+</a>, <a rel="author" rel="external" href="http://twitter.com/jacksoncouse">Twitter</a>, <a href="https://github.com/jacksoncouse" rel="author" rel="external">Github</a> and <a rel="author" href="mailto:jackson@couse.ca" itemprop="email">jackson@couse.ca</a></small></p>
+        <p><small>Copyright &copy; 2003-{{ site.time | date: '%Y' }} <a href="{{ site.baseurl }}" title="Home" itemprop="url"><span itemprop="name">{{ site.title }}</span></a>.</small></p>
       </footer>
-    </article>
-
+    </div>
+  
   </body>
 </html>

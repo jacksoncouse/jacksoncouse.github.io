@@ -72,7 +72,7 @@ a {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  color: #111111; 
+  color: #002b36; 
 }
 
 /* Headings */
@@ -277,10 +277,10 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
+  padding-top:    1.2rem;
+  margin-bottom: 1rem;
   font-style: normal;
-  border-top: 4px solid #f3f3f3;
+  border-top: .2rem solid #373633;
 }
 .masthead-title {
   margin-top: 0;
@@ -298,6 +298,7 @@ tbody tr:nth-child(odd) th {
 .masthead-title a:hover,
 a:focus {
   text-decoration: underline;
+  color: #002b36;
 }
 
 .masthead-title a {
@@ -320,9 +321,7 @@ h2.tagline {
 
 nav#pages {
   text-align: center;
-  padding-bottom: 1rem;
-  margin-bottom: 2rem;
-  border-bottom: 1px solid #f3f3f3;
+  margin-bottom: 2.5rem;
 }
 
 #pages ul {
@@ -366,6 +365,7 @@ nav#pages li {
 
 .archive ol {
   padding-left: 0;
+  list-style: none;
 }
 
 /*
@@ -374,7 +374,7 @@ nav#pages li {
 
 .previous {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1.5rem 1rem 2rem 1rem;
   border: 5px solid #f3f3f3;
   margin-top: 2rem;
 }
@@ -425,6 +425,16 @@ nav#pages li {
   color: #c0c0c0;
   font-style: italic;
   text-align: center;
+  font-size: .9rem;
+}
+
+/*
+ * Page Header
+ * 
+ */
+
+article.page header, article.post header {
+  margin-bottom: 1.5rem;
 }
 
 /* Related posts */
@@ -446,7 +456,7 @@ nav#pages li {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #002b36;
   text-decoration: none;
 }
 .related-posts li a:hover small {
@@ -518,5 +528,10 @@ a.pagination-item:hover {
   font-size: .8rem;
   border-top: 1px solid #f3f3f3;
   padding-top: 2rem;
+  padding-bottom: 3rem;
   margin-bottom: 2rem;
+}
+
+.footer p {
+  margin-bottom: 0;
 }
