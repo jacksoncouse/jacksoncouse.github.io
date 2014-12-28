@@ -3,7 +3,7 @@ layout: page
 title: Projects 
 ---
 
-Where Projects go to die!
+![Tang Coin Laundry on Somerset West in Chinatown in Ottawa Canada](/public/images/2012-sociological-walk_somerset-west.jpg)
 
 ### Sociological Walk
 
