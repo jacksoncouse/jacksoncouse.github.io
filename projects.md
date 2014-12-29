@@ -3,8 +3,10 @@ layout: page
 title: Projects 
 ---
 
-![Tang Coin Laundry on Somerset West in Chinatown in Ottawa Canada](/public/images/2012-sociological-walk_somerset-west.jpg)
-
+<figure>
+  <img src="/public/images/2012-sociological-walk_somerset-west.jpg" alt="Tang Coin Laundry on Somerset West in Chinatown in Ottawa Canada" />
+</figure>
+  
 ### Sociological Walk
 
 A public performance, social intervention, and group investigation exploring life in the Somerset-West/Chinatown neighborhood in Ottawa, Canada, where I grew up.

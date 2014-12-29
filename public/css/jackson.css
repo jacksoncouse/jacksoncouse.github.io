@@ -213,19 +213,13 @@ blockquote p:last-child {
  * 
  */
 
+figure {
+  margin: 0;
+}
+
 img {
-  display: block;
-  margin: 0 0 1rem -30px;
-}
-
-/* iphone */
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-	img { max-width: 100%; }
-}
-
-/* ipad */
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
-	img { max-width: 100%; }
+  max-width: 100%;
+  margin: 1rem 0;
 }
 
 /* Tables */
@@ -281,12 +275,26 @@ tbody tr:nth-child(odd) th {
 
 .container {
   max-width: 38rem;
-  padding-left:  1rem;
-  padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
 }
 
+.masthead, #pages, .archive, .previous {
+  margin-left:  1rem;
+  margin-right: 1rem;
+}
+
+.page p, 
+.page h3, 
+.page h4, 
+.page h5, 
+.post p, 
+.post h3, 
+.post h4, 
+.post h5 {
+  margin-left:  1rem;
+  margin-right: 1rem;
+}
 
 /*
  * Masthead
@@ -438,8 +446,7 @@ nav#pages li {
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
+  margin: -.5rem 2rem 1rem 2rem;
   color: #c0c0c0;
   font-style: italic;
   text-align: center;
@@ -452,7 +459,7 @@ nav#pages li {
  */
 
 article.page header, article.post header {
-  margin-bottom: 1.5rem;
+  margin: 0 2rem 1.5rem 2rem;
 }
 
 /* Related posts */
@@ -547,7 +554,7 @@ a.pagination-item:hover {
   border-top: 1px solid #f3f3f3;
   padding-top: 2rem;
   padding-bottom: 3rem;
-  margin-bottom: 2rem;
+  margin: 0 2rem 2rem;
 }
 
 .footer p {
