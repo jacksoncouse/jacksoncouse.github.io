@@ -4,14 +4,6 @@ title: Projects
 ---
 
 <figure>
-  <img src="/public/images/2012-sociological-walk_somerset-west.jpg" alt="Tang Coin Laundry on Somerset West in Chinatown in Ottawa Canada" />
-</figure>
-  
-### Sociological Walk
-
-A live public performance, social intervention, and group investigation of Chinatown in Ottawa, Canada, where I grew up. Basically the same process that I use for taking picutres, but with done with 50 people instead of a camera.
-
-<figure>
   <img src="/public/images/2010-m-wells-diner.jpg" />
 </figure>
 
@@ -34,3 +26,11 @@ While I living in New York I was feeling pretty homesick, so I started going to 
 ### Playing House
 
 Fait Maison (French for "home made") was an art collective and performance series in Gatineau, Quebec. I photographed their performances for three years.
+
+<figure>
+  <img src="/public/images/2012-sociological-walk_somerset-west.jpg" alt="Tang Coin Laundry on Somerset West in Chinatown in Ottawa Canada" />
+</figure>
+  
+### Sociological Walk
+
+A live public performance, social intervention, and group investigation of Chinatown in Ottawa, Canada, where I grew up. Basically the same process that I use for taking picutres, but with done with 50 people instead of a camera.
