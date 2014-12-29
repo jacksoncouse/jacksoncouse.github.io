@@ -296,6 +296,13 @@ tbody tr:nth-child(odd) th {
   margin-right: 1rem;
 }
 
+.page ul,
+.page ol,
+.post ul,
+.post ol {
+  padding-right: 1rem;
+}
+
 /*
  * Masthead
  *
