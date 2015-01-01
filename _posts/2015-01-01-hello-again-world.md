@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rebuilt Website
-hook: welcome to my new website
+title: Hello Again, World
+hook: New Home, New Design
 keywords: test,new
 ---
 
