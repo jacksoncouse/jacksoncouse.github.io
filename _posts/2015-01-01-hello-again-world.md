@@ -28,7 +28,9 @@ As usual, I was too stubborn or cheap to hire someone to make a site custom for 
 
 Here's a lesson from a good [Tuts+ course on Jekyll](http://code.tutsplus.com/courses/jekyll-essentials):
 
-<iframe width="720" height="480" src="//www.youtube.com/embed/6FBwEnF_n2M?rel=0" frameborder="0" allowfullscreen></iframe>
+<div class="youtube">
+  <iframe width="720" height="480" src="//www.youtube.com/embed/6FBwEnF_n2M?rel=0" frameborder="0" allowfullscreen>   </iframe>
+</div>
 
 Great stuff! Jekyll lets me work in a way that makes sense to me, automates a lot of the work, and lets me track everything I do using version control.
 
