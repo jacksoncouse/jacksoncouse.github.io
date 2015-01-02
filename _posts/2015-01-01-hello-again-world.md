@@ -8,6 +8,10 @@ I bought my first domain name - _jacksoncouse.com_ - on January 5th, 2006. Since
 
 The last version of my site was writen with [Stacey](http://staceyapp.com/), a file-based PHP content management system written by [Anthony Kolber](http://www.kolber.info). It was 2009, and the big open-source CMSs were both kind-of rough and way too complicated at the same time. I really liked the stripped-down logic of a file based website for my portfolio. It made sense. It still makes sense!
 
+<figure>
+  <img src="/public/images/jacksoncouse-home-page-760.png" alt="my old website"/>
+</figure>
+
 A lot has changed in my life since I built the last site, though. I moved to New York, went to school, and then moved back to Ottawa. I stopped doing commercial photography, had my first shows, did some great editorial gigs, worked for Amnesty International, taught some really fun classes, and best of all, worked with a lot of wonderful and interesting people. Then, about six months ago I started running the [Photo & Video section](http://photo.tutsplus.com) at Tuts+, a large educational website. My old site was starting to feel pretty long in the tooth.
 
 So I made a new site: 
