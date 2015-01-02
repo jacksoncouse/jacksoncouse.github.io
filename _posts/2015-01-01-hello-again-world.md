@@ -20,7 +20,7 @@ So I made a new site:
 
 - _couse.ca_ is the new domain! 
 - I have a new email, too: _jackson@couse.ca_ (it's shorter, woohoo!)
-- the pages are with Jekyll, and hosted on Github, for free. So long PHP! So long server admin! 
+- the pages are made with Jekyll, and hosted on Github, for free. So long PHP! So long server admin! 
 - the site isn't a blog or a showcase anymore. Those things will move onto their own dedicated sites. It's more like a professional archive than a portfolio. I like that.
 
 And, though a file-based system sounds cool, without a good file management system it was actually a pain in the ass. This version solves that. 
