@@ -223,6 +223,15 @@ img {
   margin: 2rem 0 .25rem 0;
 }
 
+/*
+ * Video
+ * 
+ */
+
+.youtube, .vimeo {
+  margin-left: 1rem;
+}
+
 /* Tables */
 table {
   margin-bottom: 1rem;

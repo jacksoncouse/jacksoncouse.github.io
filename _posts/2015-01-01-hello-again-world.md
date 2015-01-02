@@ -22,7 +22,7 @@ And, though a file-based system sounds cool, without a good file management syst
 
 ### Jekyll
 
-As usual, I was too stubborn or cheap to hire someone to make a site custom for, and too fussy to buy a template. Plus, I wanted to know how this technology worked. It took a while, but I learned it. In the end, making this site was a lot easier than I thought it would be. I guess I have had a good deal of practice after all.
+As usual, I was too stubborn or cheap to hire someone to make a site custom for me, and too fussy to buy a template. Plus, I wanted to know how this technology worked. It took a while, but I learned it. In the end, making this site was a lot easier than I thought it would be. I guess I have had a good deal of practice after all.
 
 [Jekyll](http://jekyllrb.com/) is like a CMS, but instead of running on a server, it runs on your personal computer. Every time you update your website, you output a new finished version. It's lightweight, easy, and most of all, super fast. 
 
@@ -36,4 +36,5 @@ Great stuff! Jekyll lets me work in a way that makes sense to me, automates a lo
 
 The next thing I'll add is dedicated project websites for each of my projects, plus an archive of my old blog. Soon-ish.
 
+Feels good to be back!
 
