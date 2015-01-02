@@ -36,6 +36,6 @@ Great stuff! Jekyll lets me work in a way that makes sense to me, automates a lo
 
 ### What's next
 
-The next thing I'll add is dedicated mini-website for each of my projects, plus an archive of the old blog. Soon-ish.
+The next thing I'll add is dedicated mini-websites for each of my projects, plus an archive of the old blog. Soon-ish.
 
 Feels good to be back!
