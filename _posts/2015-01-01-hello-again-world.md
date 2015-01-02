@@ -12,6 +12,8 @@ The last version of my site was writen with [Stacey](http://staceyapp.com/), a f
   <img src="/public/images/jacksoncouse-home-page-760.png" alt="my old website"/>
 </figure>
 
+### Time for a change
+
 A lot has changed in my life since I built the last site, though. I moved to New York, went to school, and then moved back to Ottawa. I stopped doing commercial photography, had my first shows, did some great editorial gigs, worked for Amnesty International, taught some really fun classes, and best of all, worked with a lot of wonderful and interesting people. Then, about six months ago I started running the [Photo & Video section](http://photo.tutsplus.com) at Tuts+, a large educational website. My old site was starting to feel pretty long in the tooth.
 
 So I made a new site: 
