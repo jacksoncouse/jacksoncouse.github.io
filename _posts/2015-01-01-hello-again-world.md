@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hello Again, World
-hook: New Home, New Design
 keywords: website,wedesign,Jekyll,Ruby,static generator
 ---
 
