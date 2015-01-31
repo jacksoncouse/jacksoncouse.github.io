@@ -23,16 +23,16 @@ He is the editor of the Photo & Video section at Tuts+. He has taught photo, vid
 
 | Year | Exhibition |
 |------|:----------------------------------|
-| 2015 | *Cultural Engineering*, SAW Video. Ottawa, Canada. | 
+| 2015 | *Cultural Engineering*, SAW Video. Ottawa, Canada. |
 | 2013 | *Sociological Walk*, Jane's Walk festival. Ottawa, Canada. |
 | 2012 | *Open Viewing*, Review Santa Fe, CENTER. Santa Fe, NM. (catalog) |
-| 2011 | *Capture and Release*, International Center of Photography. New York, NY. (catalog) | 
+| 2011 | *Capture and Release*, International Center of Photography. New York, NY. (catalog) |
 | 2011 | *Promenades Photographique*, Prix Mark Grosset, Paris, France. |
 | 2010 | *Relocation*, Le Centre de Production DA&#207;M&#213;N. Gatineau, Canada. (solo) |
-| 2010 | *Bodies in Trouble*, Galerie SAW Gallery. Ottawa, Canada. (catalog) | 
-| 2010 | *Heart + Soul*, Patrick Gordon gallery. Ottawa, Canada. (catalog) | 
+| 2010 | *Bodies in Trouble*, Galerie SAW Gallery. Ottawa, Canada. (catalog) |
+| 2010 | *Heart + Soul*, Patrick Gordon gallery. Ottawa, Canada. (catalog) |
 | 2010 | *Chinatown*, Jane's Walk festival. Ottawa, Canada. |
-| 2009 | *Humanitarianism through Art*, La Petite Mort Gallery, Ottawa, Canada. | 
+| 2009 | *Humanitarianism through Art*, La Petite Mort Gallery, Ottawa, Canada. |
 | 2008 | *Enriched Bread Artists*, Enriched Bread Studios, Ottawa, Canada. |
 | 2008 | *HERE*, Carleton University Art Gallery, Ottawa, Canada. |
         
@@ -42,8 +42,8 @@ He is the editor of the Photo & Video section at Tuts+. He has taught photo, vid
 | Year | Publication |
 |------|:----------------------------------|
 | 2013 | *Masculine*, Capricious Magazine, Issue No. 14, New York, NY. |
-| 2012 | *The Class of 9/11*, for the DART Society, broadcast by PBS Television. | 
-| 2007 | *The World from My Front Porch*, for Larry Towell, published by Chriss Boot. | 
+| 2012 | *The Class of 9/11*, for the DART Society, broadcast by PBS Television. |
+| 2007 | *The World from My Front Porch*, for Larry Towell, published by Chriss Boot. |
 
 ### Press
 
