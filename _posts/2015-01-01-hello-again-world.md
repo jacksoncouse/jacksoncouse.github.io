@@ -6,7 +6,7 @@ keywords: website,wedesign,Jekyll,Ruby,static generator
 
 I bought my first domain name - _jacksoncouse.com_ - on January 5th, 2006. Since then, I've been through several site designs and redesigns. For nine years I hacked things together as best I could with no formal training, but plenty of spare time, and a lot of learning by failing.
 
-The last version of my site was writen with [Stacey](http://staceyapp.com/), a file-based PHP content management system written by [Anthony Kolber](http://www.kolber.info). It was 2009, and the big open-source CMSs were both kind-of rough and way too complicated at the same time. I really liked the stripped-down logic of a file based website for my portfolio. It made sense. It still makes sense!
+The last version of my site was made with [Stacey](http://staceyapp.com/), a file-based PHP content management system written by [Anthony Kolber](http://www.kolber.info). It was 2009, and the big open-source CMSs were both kind-of rough and way too complicated at the same time. I really liked the stripped-down logic of a file based website for my showing portfolio. It made sense. It still makes sense!
 
 <figure>
   <img src="/public/images/jacksoncouse-home-page-760.png" alt="my old website"/>
@@ -19,9 +19,11 @@ A lot has changed in my life since I built the last site, though. I moved to New
 So I made a new site: 
 
 - _couse.ca_ is the new domain! 
-- I have a new email, too: _jackson@couse.ca_ (it's shorter, woohoo!)
-- the pages are made with Jekyll, and hosted on Github, for free. So long PHP! So long server admin! 
-- the site isn't a blog or a showcase anymore. Those things will move onto their own dedicated sites. It's more like a professional archive than a portfolio. I like that.
+- it comes with a new email: _jackson@couse.ca_
+
+This site is made with Jekyll. It is hosted on Github, for free. So long PHP! So long server admin! 
+
+It isn't a blog or a portfolio anymore, either. Those things will eventually move onto their own dedicated sites. It's a professional archive than a showcase now. I like that.
 
 And, though a file-based system sounds cool, without a good file management system it was actually a pain in the ass. This version solves that. 
 
