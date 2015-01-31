@@ -4,7 +4,7 @@ title: Hello Again, World
 keywords: website,wedesign,Jekyll,Ruby,static generator
 ---
 
-I bought my first domain name - _jacksoncouse.com_ - on January 5th, 2006. Since then, I've been through several site designs and redesigns. For nine years I hacked things together as best I could with no formal training, but plenty of spare time, and a lot of learning by failing.
+I bought my first domain name - _jacksoncouse.com_ - on January 5th, 2006. Since then, I've been through several site designs and redesigns. I've hacked things together as best I could with no formal training (but plenty of spare time) and a lot of learning by failing.
 
 The last version of my site was made with [Stacey](http://staceyapp.com/), a file-based PHP content management system written by [Anthony Kolber](http://www.kolber.info). It was 2009, and the big open-source CMSs were both kind-of rough and way too complicated at the same time. I really liked the stripped-down logic of a file based website for my showing portfolio. It made sense. It still makes sense!
 
