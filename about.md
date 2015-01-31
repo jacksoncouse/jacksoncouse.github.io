@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="lead">Jackson Couse is a photographer, film maker, editor, and educator from Ottawa, Canada.</p>
+<p class="lead">Jackson Couse is an artist, journalist, and educator from Ottawa, Canada.</p>
 
 He is the editor of the Photo & Video section at Tuts+. He has taught photo, video, editing, and professional skills at the International Center of Photography and the School for the Photographic Arts: Ottawa.
 
