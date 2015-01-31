@@ -23,7 +23,7 @@ So I made a new site:
 
 This site is made with Jekyll. It is hosted on Github, for free. So long PHP! So long server admin! 
 
-It isn't a blog or a portfolio anymore, either. Those things will eventually move onto their own dedicated sites. It's a professional archive than a showcase now. I like that.
+It isn't a blog or a portfolio anymore, either. Those things will eventually move onto their own dedicated sites. It's professional archive rather than a showcase. I like that.
 
 And, though a file-based system sounds cool, without a good file management system it was actually a pain in the ass. This version solves that. 
 
