@@ -21,6 +21,8 @@ He is the editor of the Photo & Video section at Tuts+. He has taught photo, vid
 
 ### Selected Exhibitions
 
+| Year | Exhibition |
+| ---- | :---------------------------------- |
 | 2015 | *Cultural Engineering*, SAW Video. Ottawa, Canada. | 
 | 2013 | *Sociological Walk*, Jane's Walk festival. Ottawa, Canada. |
 | 2012 | *Open Viewing*, Review Santa Fe, CENTER. Santa Fe, NM. (catalog) |
@@ -37,6 +39,8 @@ He is the editor of the Photo & Video section at Tuts+. He has taught photo, vid
       
 ### Publications 
 
+| Year | Publication |
+| ---- | :---------------------------------- |
 | 2013 | *Masculine*, Capricious Magazine, Issue No. 14, New York, NY. |
 | 2012 | *The Class of 9/11*, for the DART Society, broadcast by PBS Television. | 
 | 2007 | *The World from My Front Porch*, for Larry Towell, published by Chriss Boot. | 
