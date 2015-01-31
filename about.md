@@ -19,12 +19,6 @@ He is the editor of the Photo & Video section at Tuts+. He has taught photo, vid
 
 ## Curriculum Vitae
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
 ### Selected Exhibitions
 
 | Year | Exhibition |
@@ -43,7 +37,7 @@ He is the editor of the Photo & Video section at Tuts+. He has taught photo, vid
 | 2008 | *HERE*, Carleton University Art Gallery, Ottawa, Canada. |
         
       
-### Publications 
+### Selected Publications 
 
 | Year | Publication |
 |------|:----------------------------------|
