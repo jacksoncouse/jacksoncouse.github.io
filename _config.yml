@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet::tables
+markdown:         kramdown
 hilighter:         true
 
 # Permalinks
