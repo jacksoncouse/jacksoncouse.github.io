@@ -9,7 +9,7 @@ He is the editor of the [Photo & Video](http://photo.tutsplus.com) section at Tu
 
 Couse has a Certificate in Documentary Photography and Photojournalism from The International Center of Photography and a Diploma in Photography from Algonquin College (Ottawa).
 
-His work has featured in Capriscious, Blackflash, Ciel Variable, and Canadian Art magazines. He has exhibited at CENTER, the International Center of Photography, Galerie SAW Gallery, and DAIMON. He is published by The New York Times, Montreal Gazette, FASHION, Food and Wine, Tasting Table, PBS NewsHour, CBC Radio, and Radio-Canada.
+His work has featured in Capricious, Blackflash, Ciel Variable, and Canadian Art magazines. He has exhibited at CENTER, the International Center of Photography, Galerie SAW Gallery, and DAIMON. He is published by The New York Times, Montreal Gazette, FASHION, Food and Wine, Tasting Table, PBS NewsHour, CBC Radio, and Radio-Canada.
 
 <p>To get in touch: <a href="http://tutsplus.com/authors/jackson-couse" rel="author" rel="external">Tuts+</a>, <a rel="author" rel="external" href="http://twitter.com/jacksoncouse">Twitter</a>, <a href="https://github.com/jacksoncouse" rel="author" rel="external">Github</a> and <a rel="author" href="mailto:jackson@couse.ca" itemprop="email">jackson@couse.ca</a></p>
 
