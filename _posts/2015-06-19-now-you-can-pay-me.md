@@ -4,7 +4,7 @@ title: Now You Can Pay Me to Tell You What's What
 keywords: service, advice, Tuts+, mentorship
 ---
 
-Now you too can get advice from me! I am happy to announce that I am now a mentor with [Tuts+ Experts](http://experts.tutsplus.com/)!
+I am happy to announce that I am now a mentor with [Tuts+ Experts](http://experts.tutsplus.com/)!
 
 ###Mentoring
 
@@ -20,4 +20,4 @@ Together we can:
 - Edit your portfolio
 - Develop your workflow (documentary, portrait, Photoshop, Lightroom)
 
-Tuts+ Experts has a full moneyback gaurentee. Don't like what I have to say? No problem! You cannot lose.
+Tuts+ Experts has a full moneyback gaurentee. Don't like what I have to say? No problem! You can't lose.
