@@ -10,7 +10,9 @@ I've been telling people what to do for years, but it's only recently that anyon
 
 I am now available for [consultation by the hour](http://experts.tutsplus.com/products/jackson-couse) for $65 USD per hour.
  
-I provide mentoring and advice for portfolio and pratice development for portrait, documentary, social-ptractice, and fine art photographers. Together we can:
+I provide mentoring for photographers engaged with portraiture, documentary, social-ptractice, and fine art. Even if you don't identify with one of these genres I can help more your practice forward.
+
+Together we can:
  
 - Develop a new project idea and get started 
 - Define and refine an existing project
