@@ -4,7 +4,7 @@ title: Now You Can Pay Me to Tell You What's What
 keywords: service, advice, Tuts+, mentorship
 ---
 
-I've been telling people what to do for years, but it's only recently that anyone has actually done what I told them to. Now you too can get advice from me with [Tuts+ Experts](http://experts.tutsplus.com/)!
+Now you too can get advice from me! I am happy to announce that I am now mentor with [Tuts+ Experts](http://experts.tutsplus.com/)!
 
 ###Mentoring
 
