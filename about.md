@@ -5,7 +5,7 @@ title: About
 
 <p class="lead">Jackson Couse is an artist, journalist, and educator from Ottawa, Canada.</p>
 
-He is the editor of the [Photo & Video](http://photo.tutsplus.com) section at Tuts+. He has taught photography, videography, photojournalism, and photo editing at the International Center of Photography (New York) and the School for the Photographic Arts: Ottawa.
+He is the editor of the [Photo & Video](http://photo.tutsplus.com) section at Tuts+ and mentor at [Tuts+ Experts](http://experts.tutsplus.com/products/jackson-couse). He has taught photography, videography, photojournalism, and photo editing at the International Center of Photography (New York) and the School for the Photographic Arts: Ottawa.
 
 Couse has a Certificate in Documentary Photography and Photojournalism from The International Center of Photography and a Diploma in Photography from Algonquin College (Ottawa).
 
