@@ -10,7 +10,7 @@ I am happy to announce that I am now a mentor with [Tuts+ Experts](http://expert
 
 I am available for [consultation by the hour](http://experts.tutsplus.com/products/jackson-couse) for $65 USD per hour.
  
-I provide mentoring for photographers engaged with portraiture, documentary, social-ptractice, and fine art. Even if you don't identify with one of these genres I can help move your practice forward.
+I provide mentoring for photographers engaged with portraiture, documentary, social practice, and fine art. Even if you don't identify with one of these genres I can help move your practice forward.
 
 Together we can:
  
