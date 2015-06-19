@@ -8,7 +8,7 @@ I've been telling people what to do for years, but it's only recently that anyon
 
 ###Mentoring
 
-I am now available for [consultation by the hour]((http://experts.tutsplus.com/products/jackson-couse) for $65 USD per hour.
+I am now available for [consultation by the hour](http://experts.tutsplus.com/products/jackson-couse) for $65 USD per hour.
  
 I provide mentoring and advice for portfolio and pratice development for portrait, documentary, social-ptractice, and fine art photographers. Together we can:
  
